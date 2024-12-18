@@ -1,11 +1,12 @@
 ---
 ---
 
-@inproceedings{sechaud2024equivariance,
+@article{sechaud2024eusipco,
   title={Equivariance-based self-supervised learning for audio signal recovery from clipped measurements},
-  author={Sechaud, Victor and Jacques, Laurent and Abry, Patrice and Tachella, Juli{\'a}n},
-  booktitle={2024 32nd European Signal Processing Conference (EUSIPCO)},
-  pages={852--856},
+  author={Sechaud, Victor and Jacques, Laurent and Abry, Patrice and Tachella, Julian},
+  journal={EUSIPCO 2024},
   year={2024},
-  organization={IEEE}
-}
+  preview={clipped_eusipco.png},
+  pdf = {https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000852.pdf},
+  abstract = {In numerous inverse problems, state-of-the-art solving strategies involve training neural networks from ground truth and associated measurement datasets that, however, may be expensive or impossible to collect. Recently, self-supervised learning techniques have emerged, with the major advantage of no longer requiring ground truth data. Most theoretical and experimental results on self-supervised learning focus on linear inverse problems. The present work aims to study self-supervised learning for the non-linear inverse problem of recovering audio signals from clipped measurements. An equivariance-based selfsupervised loss is proposed and studied. Performance is assessed on simulated clipped measurements with controlled and varied levels of clipping, and further reported on standard real music signals. We show that the performance of the proposed equivariance-based self-supervised declipping strategy compares favorably to fully supervised learning while only requiring clipped measurements alone for training.}
+  }
