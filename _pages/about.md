@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cnrs.fr/'>CNRS</a> & <a href='http://www.ens-lyon
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profils2.jpg
   image_circular: false # crops the image to make it circular
   more_info: <p>victor.sechaud@ens-lyon.fr</p>
 
