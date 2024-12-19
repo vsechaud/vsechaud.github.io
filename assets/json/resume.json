@@ -6,7 +6,7 @@
     "email": "victor.sechaud@ens-lyon.fr",
     "phone": "",
     "url": "https://vsechaud.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A French PhD student in apply mathematics",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "vsechaud",
+        "url": "https://vsechaud.github.io"
       }
     ]
   },
