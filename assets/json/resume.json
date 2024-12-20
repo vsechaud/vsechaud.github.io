@@ -76,16 +76,15 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machin learning",
+        "Deep learning",
+        "Statistics",
+        "Variational methods",
+        "Optimisation",
       ]
     }
   ],
@@ -103,22 +102,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Mathematics",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machin learning",
+        "Deep learning",
+        "Statistics",
+        "Optimal transport",
+        "Compressive sensing"
       ]
     },
     {
     "name": "Computer science",
     "icon": "fa-solid fa-tag",
     "keywords": [
-      "Github",
+      "GitHub",
+      "Programation"
       ]
     }
   ],
