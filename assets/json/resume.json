@@ -113,15 +113,16 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  {
+    },
+    {
     "name": "Computer science",
     "icon": "fa-solid fa-tag",
     "keywords": [
       "Github",
       ]
     }
+  ],
+  
   "references": [
     {
       "name": "Professor John Doe",
