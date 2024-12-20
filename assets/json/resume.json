@@ -1,23 +1,24 @@
 {
   "basics": {
-    "name": "Victor Sechaud",
-    "label": "PhD student",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "victor.sechaud@ens-lyon.fr",
-    "phone": "",
-    "url": "https://vsechaud.github.io",
-    "summary": "A French PhD student in apply mathematics",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "12 allé de l.Italie",
-      "postalCode": "69007",
-      "city": "Lyon",
-      "countryCode": "FR",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "Github",
-        "username": "vsechaud",
-        "url": "https://vsechaud.github.io"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
