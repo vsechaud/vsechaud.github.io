@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Victor Sechaud",
+    "label": "PhD student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "victor.sechaud@ens-lyon.fr",
+    "phone": "",
+    "url": "https://vsechaud.github.io",
+    "summary": "A French PhD student in apply mathematics",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "École Normale Supérieure de Lyon",
+      "position": "PhD student",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2023-11-01",
+      "endDate": "",
+      "summary": "Self-supervised learning for non-linear inverse problem.",
+      "highlights": ["Machin Learning"]
     }
   ],
   "volunteer": [
