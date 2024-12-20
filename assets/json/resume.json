@@ -53,7 +53,8 @@
       "studyType": "Master",
       "startDate": "2022-09-01",
       "endDate": "2023-07-30",
-      "courses": ["Machin learning"]
+      "courses": ["Machin learning",
+      "Inverse problems"]
     }
   ],
   "awards": [
@@ -111,12 +112,12 @@
   ],
   "publications": [
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+      "name": "Equivariance-based self-supervised learning for audio signal recovery from clipped measurements",
+      "publisher": "EUSIPCO 2024",
+      "releaseDate": "2024-08-25",
+      "url": "https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000852.pdf",
+      "summary": ""
+    },
   ],
   "skills": [
     {
@@ -134,7 +135,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -146,15 +147,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Machin learning",
+        "Deep learning",
+        "Statistics",
+        "Optimal transport",
+        "Compressive sensing"
+      ]
+    },
+    {
+      "name": "Computer science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "GitHub",
+        "Programation",
       ]
     }
   ],
