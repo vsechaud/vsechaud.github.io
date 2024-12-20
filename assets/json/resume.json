@@ -8,24 +8,17 @@
     "url": "https://vsechaud.github.io",
     "summary": "A French PhD student in apply mathematics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "46 All. d'Italie",
+      "postalCode": "69007",
+      "city": "Lyon",
+      "countryCode": "FR",
+      "region": ""
+    }
   },
   "work": [
     {
       "name": "École Normale Supérieure de Lyon",
-      "position": "PhD student",
+      "position": "PhD",
       "url": "https://example.com",
       "startDate": "2023-11-01",
       "endDate": "",
