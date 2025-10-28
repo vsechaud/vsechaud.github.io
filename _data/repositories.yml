@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - vsechaud/Equivariant-Splitting
   - vsechaud/deepinv
   - vsechaud/vsechaud.github.io
