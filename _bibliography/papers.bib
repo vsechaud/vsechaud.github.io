@@ -4,7 +4,7 @@
 @article{sechaud2025learning,
   title={Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging},
   author={Sechaud, Victor and Jacques, Laurent and Abry, Patrice and Tachella, Juli{\'a}n},
-  journal={Submitted to Transactions on Machine Learning Research},
+  journal={Transactions on Machine Learning Research},
   year={2026},
   pdf={https://openreview.net/pdf?id=AkJWgglkLd},
   abstract={Learning based methods are now ubiquitous for solving inverse problems, but their deployment in real-world applications is often hindered by the lack of ground truth references for training. Recent self-supervised learning strategies offer a promising alternative, avoiding the need for ground truth. However, most existing methods are limited to linear inverse problems. This work extends self-supervised learning to the non-linear problem of recovering audio and images from clipped measurements, by assuming that the signal distribution is approximately invariant to changes in amplitude. We provide sufficient conditions for learning to reconstruct from saturated signals alone and a self-supervised loss that can be used to train reconstruction networks. Experiments on both audio and image data show that the proposed approach is almost as effective as fully supervised approaches, despite relying solely on clipped measurements for training.},
@@ -14,11 +14,11 @@
 @article{sechaud2025equivariant,
   title={Equivariant Splitting: Self-supervised learning from incomplete data},
   author={Sechaud, Victor and Scanvic, J{\'e}r{\'e}my and Barth{\'e}lemy, Quentin and Abry, Patrice and Tachella, Juli{\'a}n},
-  journal={arXiv preprint arXiv:2510.00929},
+  journal={ICLR},
   pdf={https://arxiv.org/pdf/2510.00929},
   code={https://github.com/vsechaud/Equivariant-Splitting},
   abstract={Self-supervised learning for inverse problems allows to train a reconstruction network from noise and/or incomplete data alone. These methods have the potential of enabling learning-based solutions when obtaining ground-truth references for training is expensive or even impossible. In this paper, we propose a new self-supervised learning strategy devised for the challenging setting where measurements are observed via a single incomplete observation model. We introduce a new definition of equivariance in the context of reconstruction networks, and show that the combination of self-supervised splitting losses and equivariant reconstruction networks results in unbiased estimates of the supervised loss. Through a series of experiments on image inpainting, accelerated magnetic resonance imaging, sparse-view computed tomography, and compressive sensing, we demonstrate that the proposed loss achieves state-of-the-art performance in settings with highly rank-deficient forward models.},
-  year={2025},
+  year={2026},
   selected={true}
 }
 
@@ -40,5 +40,5 @@
   preview={clipped_eusipco.png},
   pdf = {https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000852.pdf},
   abstract = {In numerous inverse problems, state-of-the-art solving strategies involve training neural networks from ground truth and associated measurement datasets that, however, may be expensive or impossible to collect. Recently, self-supervised learning techniques have emerged, with the major advantage of no longer requiring ground truth data. Most theoretical and experimental results on self-supervised learning focus on linear inverse problems. The present work aims to study self-supervised learning for the non-linear inverse problem of recovering audio signals from clipped measurements. An equivariance-based selfsupervised loss is proposed and studied. Performance is assessed on simulated clipped measurements with controlled and varied levels of clipping, and further reported on standard real music signals. We show that the performance of the proposed equivariance-based self-supervised declipping strategy compares favorably to fully supervised learning while only requiring clipped measurements alone for training.},
-  selected={true}
+  selected={false}
   }
