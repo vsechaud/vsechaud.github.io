@@ -50,6 +50,27 @@
   ],
   "publications": [
     {
+      "name": "Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging",
+      "publisher": "TMLR",
+      "releaseDate": "2026-01-10",
+      "url": "https://openreview.net/pdf?id=AkJWgglkLd",
+      "summary": ""
+    },
+    {
+      "name": "Equivariant Splitting: Self-supervised learning from incomplete data",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-01-20",
+      "url": "https://arxiv.org/pdf/2510.00929",
+      "summary": ""
+    },
+    {
+      "name": "Apprentissage auto-supervisé pour la reconstruction de phase",
+      "publisher": "GRETSI 2025",
+      "releaseDate": "2025-08-27",
+      "url": "https://hal.science/hal-05238551/document",
+      "summary": ""
+    },
+    {
       "name": "Equivariance-based self-supervised learning for audio signal recovery from clipped measurements",
       "publisher": "EUSIPCO 2024",
       "releaseDate": "2024-08-25",
