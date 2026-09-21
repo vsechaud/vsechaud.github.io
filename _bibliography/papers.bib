@@ -4,7 +4,7 @@
 @article{sechaud2025learning,
   title={Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging},
   author={Sechaud, Victor and Jacques, Laurent and Abry, Patrice and Tachella, Juli{\'a}n},
-  journal={Transactions on Machine Learning Research},
+  journal={TMLR},
   year={2026},
   preview={cube.jpg},
   pdf={https://openreview.net/pdf?id=AkJWgglkLd},
@@ -18,6 +18,7 @@
   journal={ICLR},
   pdf={https://arxiv.org/pdf/2510.00929},
   code={https://github.com/vsechaud/Equivariant-Splitting},
+  preview={ICLR.png},
   abstract={Self-supervised learning for inverse problems allows to train a reconstruction network from noise and/or incomplete data alone. These methods have the potential of enabling learning-based solutions when obtaining ground-truth references for training is expensive or even impossible. In this paper, we propose a new self-supervised learning strategy devised for the challenging setting where measurements are observed via a single incomplete observation model. We introduce a new definition of equivariance in the context of reconstruction networks, and show that the combination of self-supervised splitting losses and equivariant reconstruction networks results in unbiased estimates of the supervised loss. Through a series of experiments on image inpainting, accelerated magnetic resonance imaging, sparse-view computed tomography, and compressive sensing, we demonstrate that the proposed loss achieves state-of-the-art performance in settings with highly rank-deficient forward models.},
   year={2026},
   selected={true}
@@ -29,8 +30,9 @@
   booktitle={GRETSI},
   year={2025},
   pdf={https://hal.science/hal-05238551/document},
+  preview={GRETSI.png},
   abstract={In recent years, deep neural networks have emerged as a solution for inverse imaging problems. These networks are generally trained using pairs of images: one degraded and the other of high quality, the latter being called 'ground truth'. However, in medical and scientific imaging, the lack of fully sampled data limits supervised learning. Recent advances have made it possible to reconstruct images from measurement data alone, eliminating the need for references. However, these methods remain limited to linear problems, excluding non-linear problems such as phase retrieval. We propose a self-supervised method that overcomes this limitation in the case of phase retrieval by using the natural invariance of images to translations.},
-  selected={true}
+  selected={false}
 }
 
 @article{sechaud2024eusipco,
@@ -41,5 +43,5 @@
   preview={clipped_eusipco.png},
   pdf = {https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0000852.pdf},
   abstract = {In numerous inverse problems, state-of-the-art solving strategies involve training neural networks from ground truth and associated measurement datasets that, however, may be expensive or impossible to collect. Recently, self-supervised learning techniques have emerged, with the major advantage of no longer requiring ground truth data. Most theoretical and experimental results on self-supervised learning focus on linear inverse problems. The present work aims to study self-supervised learning for the non-linear inverse problem of recovering audio signals from clipped measurements. An equivariance-based selfsupervised loss is proposed and studied. Performance is assessed on simulated clipped measurements with controlled and varied levels of clipping, and further reported on standard real music signals. We show that the performance of the proposed equivariance-based self-supervised declipping strategy compares favorably to fully supervised learning while only requiring clipped measurements alone for training.},
-  selected={false}
+  selected={true}
   }
