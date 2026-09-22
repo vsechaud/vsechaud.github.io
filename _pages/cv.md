@@ -1,9 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /cv2/
 title: cv
-nav: true
-nav_order: 5
+nav: false
 cv_pdf: # you can also use external links here
 description:
 toc:
